@@ -25,7 +25,7 @@ I work at the intersection of robotics, computer vision, and biomedical imaging.
 
 Each project has its own repository (click to open):
 
-- [Eye disease classification — thesis / ISME presentation](https://github.com/Parsa-Aghaei/eye-disease-classification) — AI classification of AMD (dry vs. wet) and later diabetic retinopathy; collaborated with Negah Hospital.
+- [Eye disease classification — bachelor's thesis / ISME Conference presentation](https://github.com/Parsa-Aghaei/eye-disease-classification) — AI classification of AMD (dry vs. wet) and later diabetic retinopathy; collaborated with Negah Hospital.
 - [Spinal fracture detection & crowd detection (YOLO)](https://github.com/Parsa-Aghaei/spinal-fracture-detection) — experiments on Kaggle datasets; YOLO-based crowd detection tests.
 - [Obstacle detection glove for blind assistance (Raspberry Pi)](https://github.com/Parsa-Aghaei/obstacle-glove) — Pi camera mounted on a glove; real-time object detection and audio feedback.
 - [Fruit & plant damage detection robot (Arduino + ESP32)](https://github.com/Parsa-Aghaei/fruit-damage-robot) — remote-controlled robot that captures images and analyzes plant damage.
