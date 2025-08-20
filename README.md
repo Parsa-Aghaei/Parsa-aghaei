@@ -3,7 +3,7 @@
 I'm passionate about using machine vision, robotics, and data-driven methods to solve real-world problems — from medical imaging to assistive devices and agricultural automation.
 
 - 🎓 B.Sc. in Mechanical Engineering — K. N. Toosi University of Technology (KNTU)
-  Focus: machine vision, robotics, medical imaging / bioinformatics
+  Focus: machine vision, medical imaging / bioinformatics, robotics
   GPA: 15.95 / 20
 - 🎓 M.Sc. in Applied Design — University of Tehran (in progress)
 - 🗣️ TOEFL: 114
